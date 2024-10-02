@@ -1,17 +1,30 @@
-#  MindCare Hub                
+#  MindSpace               
 ## Mental Health Awareness | Website Project
-
-MindCare Hub, is a responsive website that informs visiters about mental health by bringing awareness on the different types of mental health disorders which people can and are suffering from such as: Depression, Anxiety, PTSD, Bipolar Disorder etc.  
-
-![ MindCare Hub  Website shown on a range of devices](assets/images/     )
-
 
 [View  on Github Pages]( url:link )
 
 
+MindSpace, is a responsive website that informs visiters about mental health by bringing awareness on the different types of mental health disorders that people can and are suffering from such as: Depression, Anxiety, PTSD, Bipolar Disorder etc.  
+
+![ MindCare Hub  Website shown on a range of devices](assets/images/     )
+
+
+
+
+
 ## CONTENTS
 
-### [User Experience (UX)](#User-Experience-(UX))                     
+### [User Experience (UX)](#User-Experience-(UX))  
+
+-  Strategy
+
+-  Scope
+
+-  Structure
+
+-  Skeleton
+
+-  Surface
 
 ### [Design](#Design) 
 
@@ -54,7 +67,8 @@ MindCare Hub, is a responsive website that informs visiters about mental health 
 ## Credits
 
 
-https://webgradients.com/
+https://webgradients.com/ colors:  background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
 
 https://ianlunn.github.io/Hover/
 
@@ -75,3 +89,6 @@ https://hotpot.ai/icon-resizer
 [Google Fonts](https://fonts.google.com/)      : @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 https://fontawesome.com/icons/bars?f=classic&s=solid
+
+
+
