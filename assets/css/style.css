@@ -167,6 +167,10 @@ body {
 
 
 
+.card-body-center {
+
+    text-align: center;
+}
 
 
 
@@ -182,8 +186,9 @@ body {
 h1 {
     text-align: center;
     color: #3498db;
-    /* Main heading color */
+    
 }
+
 
 section {
     background: white;
@@ -195,7 +200,7 @@ section {
 
 h2 {
     color: #2980b9;
-    /* Section heading color */
+     
 }
 
 article {
@@ -208,11 +213,12 @@ article h3 {
 
 article a {
     color: #3498db;
+
 }
 
 ul {
     list-style-type: none;
-    /* Remove default list styling */
+    
 }
 
 ul li {
