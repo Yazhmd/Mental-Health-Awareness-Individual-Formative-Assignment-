@@ -1,12 +1,12 @@
 #  MindSpace               
 ## Mental Health Awareness | Website Project
 
-[View  on Github Pages]( url:link )
+[View  on Github Pages](https://yazhmd.github.io/Mental-Health-Awareness-Individual-Formative-Assignment-/)
 
 
 MindSpace, is a responsive website that informs visiters about mental health by bringing awareness on the different types of mental health disorders that people can and are suffering from such as: Depression, Anxiety, PTSD, Bipolar Disorder etc.  
 
-![ MindCare Hub  Website shown on a range of devices](assets/images/     )
+![ MindCare Hub  Website shown on a range of devices](assets/images )
 
 
 
@@ -16,15 +16,7 @@ MindSpace, is a responsive website that informs visiters about mental health by 
 
 ### [User Experience (UX)](#User-Experience-(UX))  
 
--  Strategy
 
--  Scope
-
--  Structure
-
--  Skeleton
-
--  Surface
 
 ### [Design](#Design) 
 
@@ -45,18 +37,120 @@ MindSpace, is a responsive website that informs visiters about mental health by 
 
 ## User Experience (UX)
 
+
+### Creation Process  
+  
+### **1. Strategy**  
+
+
+- I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.  
+- Location of the shop must be visible and social media links available.  
+- The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
+- Pricing within the menu page is to be transparent and simple.  
+- Mobile responsiveness is an essential feature required for this website.
+  
+
+### **2. Scope**  
+
+The SCOOPS site must be available on a wide range of devices due to the varied range of customer ages. A large portion of their client base is the retired, over-60 age group, comprising mostly of grandparents bringing their grandchildren out for a weekly treat. SCOOPS provides a comfortable, no-fuss, homely environment for its dine-in patrons and they wished for this to be reflected in the website.  
+
+- The site is to contain only essential information, presented in a similar fashion and layout.   
+- Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.  
+- A brief history of the business is to be included on the landing page.  
+- For future development, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials, and candid shots of customers and staff.
+  
+
+### **3. Structural**  
+
+Similar to the idea for the design and layout to be accessible and functional, simple navigation and interactivity were essential. The site needed to provide information swiftly no matter the age of the user.  
+- Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
+- Any buttons or links had to provide feedback to the user to identify their purpose in the form of a design change that followed the flow of the overall aesthetic.  
+- A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line.  
+- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information destination, strengthening the site's familiar and trusting feeling.  
+
+  
+### **4. Skeleton**  
+
+
+
+
+
 - - -
 
 ## Design
+
+
+### **Color Scheme**  
+
+This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
+  
+![colour theme swatches](docs/documentation/colourtheme.png)  
+  
+I experienced an issue with the contrast ratio for my buttons. The ratio of the (#78D5F7) blue and (#F53636) red fell short of the acceptable [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio. To fix this and increase the accessibility of my site I used different shades of these colours to conform.  
+  
+![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)  
+  
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
+  
+![Color Blind Safe Check](docs/documentation/cb_safe.png)
+  
+### **Typography**  
+  
+[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
+  
+![google Fonts Josefin Sans](docs/documentation/josefinfont.png)
+
+        
+### **Imagery**  
+  
+The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close-ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
+
 
 - - -
 
 ## Technologies used
 
+### **Languages Used**   
+
+- HTML5
+- CSS3
+
+### **Frameworks, Libraries, Technologies & Programs Used**  
+
+- Balsamiq- used to create wireframes and edit images 
+- GitHub - used to save and store all files for this website  
+- Git - used for version control
+- Google Fonts - fonts were imported from here 
+- Font Awesome - icons and their associated kit were downloaded from here  
+- Perplexity and chatgpt: Ai assist for coding bugs and problems
+- Favicon.io - for ice cream favicon  
+- Bootstrap: for javascript features 
+- Google Dev Tools - to debug and for testing responsiveness 
+- Google Lighthouse - for auditing the website
+- W3C Validator - for validating the HTML and CSS code 
+- webgradients.com: for color gradient scheme for website
+- Hotpot AI: For Favicon resizing
+ 
+
+
+ 
 - - -
 
 ## Deployment & Local Development
 
+GitHub was used to deploy the website. These were the steps taken to acheive this:  
+
+1. Login to GitHub account
+2. Navigate to the project repository, scoops_pp1
+3. Click the Settings button near the top of the page
+4. In the left-hand menu, find and click on the Pages button
+5. In the Source section, choose 'main' from the drop-down, select branch menu
+6. Select 'root' from the drop-down folder menu
+7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
+   
+
+
+ 
 
 - - -
 
@@ -67,28 +161,31 @@ MindSpace, is a responsive website that informs visiters about mental health by 
 ## Credits
 
 
-https://webgradients.com/ colors:  background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
-background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+[ Web Gradients](https://webgradients.com/)
 
-https://ianlunn.github.io/Hover/
+[](https://ianlunn.github.io/Hover/)
 
-https://validator.w3.org/#validate_by_input
+[W3 CSS Validator ](https://validator.w3.org/#validate_by_input)
 
-https://jigsaw.w3.org/css-validator/#validate_by_input
+[W3 HTML Validator ](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-https://chatgpt.com/
+[Chat GPT](https://chatgpt.com/)
 
-https://www.perplexity.ai/
+[Perplexity](https://www.perplexity.ai/)
 
-https://hotpot.ai/icon-resizer
-
-
-<a href="https://www.flaticon.com/free-icon/mental-health_3475728?term=mental&page=1&position=11&origin=style&related_id=3475728" title="wellbeing icons">Wellbeing icons created by Flat Icons - Flaticon</a>
+[Hotpot Ai : Favicon resizer](https://hotpot.ai/icon-resizer)
 
 
-[Google Fonts](https://fonts.google.com/)      : @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+[ Bootstrap](https://getbootstrap.com/ )
 
-https://fontawesome.com/icons/bars?f=classic&s=solid
+<a href="https://www.flaticon.com/free-icon/mental-health_3475728?term=mental&page=1&position=11&origin=style&related_id=3475728" title="wellbeing icons">Wellbeing Favicon created by Flat Icons - Flaticon</a>
 
+
+[Google Fonts](https://fonts.google.com/)      
+
+[Fontawesome](https://fontawesome.com/icons/bars?f=classic&s=solid)
+
+### **Acknowledgements** 
+- I would like to acknowledge my Code Institute mentor, Amy for her guidance and encouragement on this project.
 
 
