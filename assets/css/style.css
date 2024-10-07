@@ -78,6 +78,20 @@ label.logo-title {
 
 }
 
+
+.logo-title-jumbotron{
+
+    
+    color: white;
+    font-family: 'lato', sans-serif;
+    font-size: 60px;
+    line-height: 80px;
+   
+    font-weight: bold;
+
+
+}
+
 nav ul {
     float: right;
     margin-right: 20px;

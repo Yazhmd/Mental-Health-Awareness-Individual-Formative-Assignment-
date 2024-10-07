@@ -43,11 +43,6 @@ MindSpace, is a responsive website that informs visiters about mental health by 
 ### **1. Strategy**  
 
 
-- I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.  
-- Location of the shop must be visible and social media links available.  
-- The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
-- Pricing within the menu page is to be transparent and simple.  
-- Mobile responsiveness is an essential feature required for this website.
   
 
 ### **2. Scope**  
@@ -60,7 +55,7 @@ The SCOOPS site must be available on a wide range of devices due to the varied r
 - For future development, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials, and candid shots of customers and staff.
   
 
-### **3. Structural**  
+### **3. Structure**  
 
 Similar to the idea for the design and layout to be accessible and functional, simple navigation and interactivity were essential. The site needed to provide information swiftly no matter the age of the user.  
 - Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
@@ -75,6 +70,14 @@ Similar to the idea for the design and layout to be accessible and functional, s
 
 
 
+
+### **5. Surface**  
+
+
+
+
+
+
 - - -
 
 ## Design
@@ -82,17 +85,14 @@ Similar to the idea for the design and layout to be accessible and functional, s
 
 ### **Color Scheme**  
 
-This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
   
 ![colour theme swatches](docs/documentation/colourtheme.png)  
   
-I experienced an issue with the contrast ratio for my buttons. The ratio of the (#78D5F7) blue and (#F53636) red fell short of the acceptable [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio. To fix this and increase the accessibility of my site I used different shades of these colours to conform.  
+
+
+
   
-![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)  
-  
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
-  
-![Color Blind Safe Check](docs/documentation/cb_safe.png)
+
   
 ### **Typography**  
   
@@ -114,6 +114,8 @@ The images that I have chosen for my site reflect the bright, retro aesthetic I 
 
 - HTML5
 - CSS3
+
+
 
 ### **Frameworks, Libraries, Technologies & Programs Used**  
 
