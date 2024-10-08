@@ -33,6 +33,7 @@ body {
     font-weight: 500;
 
 
+
     color: #252525;
 }
 
@@ -159,11 +160,30 @@ body {
     color: white;
     padding: 50px;
     border-radius: 10px;
-    height: 100vh;
 
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
+.jumbotron h1 {
+    font-size: 4rem;
 
+    margin-bottom: 1rem;
+}
+
+.jumbotron p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.jumbotron .btn {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+}
 
 .jumbotron::before {
     content: "";
@@ -195,7 +215,42 @@ body {
 
 }
 
-.card-jumbotron {}
+
+
+
+/* About us section */
+
+.about-jumbostron {
+    position: relative;
+    z-index: 1;
+
+    background-image: linear-gradient(to right, #ec77ab 45%, #7873f5);
+
+   
+    
+     
+   
+    border-radius: 900px;
+
+
+}
+
+.card-jumbotron {
+
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+
+
+.card-jumbotron h6 {
+
+    font-size: 18px;
+
+}
+
 
 
 .card-body-center {
@@ -206,16 +261,6 @@ body {
 
 
 
-
-.card-faqs {
-
-
-    
-    text-align: center;
-   
-
-
-}
 
 /* Main for explore page */
 
@@ -319,12 +364,12 @@ blockquote {
 .support-btn-text {
 
 
-color: white;
+    color: white;
 
-font-weight: bold;
+    font-weight: bold;
 
 }
- 
+
 /* Footer */
 
 footer {
@@ -441,6 +486,17 @@ footer {
     #check:checked~ul {
         left: 0;
     }
+
+
+
+    /* jumbotron */
+
+    .jumbotron h1 {
+        font-size: 4rem;
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+    }
+
 
 
 
