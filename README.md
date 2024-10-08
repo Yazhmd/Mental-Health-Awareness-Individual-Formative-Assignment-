@@ -6,7 +6,7 @@
 
 MindSpace, is a responsive website that informs visiters about mental health by bringing awareness on the different types of mental health disorders that people can and are suffering from such as: Depression, Anxiety, PTSD, Bipolar Disorder etc.  
 
-![ MindCare Hub  Website shown on a range of devices](assets/images )
+![ MindSpace  Website shown on a range of devices](assets/images )
 
 
 

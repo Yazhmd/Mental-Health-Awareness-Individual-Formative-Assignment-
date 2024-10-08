@@ -79,18 +79,6 @@ label.logo-title {
 }
 
 
-.logo-title-jumbotron{
-
-    
-    color: white;
-    font-family: 'lato', sans-serif;
-    font-size: 60px;
-    line-height: 80px;
-   
-    font-weight: bold;
-
-
-}
 
 nav ul {
     float: right;
@@ -164,17 +152,43 @@ body {
 
 }
 
-
-
 .jumbotron {
-
-
-    background-size: cover;
     background-image: url(../images/istockphoto-1357255073-612x612.jpg);
-
+    background-size: cover;
+    position: relative;
     color: white;
     padding: 50px;
     border-radius: 10px;
+    height: 90vh;
+  }
+
+
+
+  .jumbotron::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.705);
+    border-radius: 10px;
+  }
+
+  .jumbotron * {
+    position: relative;
+    z-index: 1;
+  }
+
+.logo-title-jumbotron{
+
+    
+    color: white;
+    font-family: 'lato', sans-serif;
+    font-size: 60px;
+    line-height: 80px;
+   
+    font-weight: bold;
 
 
 }
