@@ -155,44 +155,47 @@ body {
 .jumbotron {
     background-image: url(../images/istockphoto-1357255073-612x612.jpg);
     background-size: cover;
-    position: relative;
+    position: sticky;
     color: white;
     padding: 50px;
     border-radius: 10px;
-    height: 90vh;
-  }
+    height: 100vh;
+
+}
 
 
 
-  .jumbotron::before {
+.jumbotron::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.705);
+    background-color: rgba(0, 0, 0, 0.75);
     border-radius: 10px;
-  }
 
-  .jumbotron * {
+}
+
+.jumbotron * {
     position: relative;
     z-index: 1;
-  }
+}
 
-.logo-title-jumbotron{
+.logo-title-jumbotron {
 
-    
+
     color: white;
     font-family: 'lato', sans-serif;
     font-size: 60px;
-    line-height: 80px;
-   
+
+
     font-weight: bold;
 
 
 }
 
+.card-jumbotron {}
 
 
 .card-body-center {
@@ -201,6 +204,18 @@ body {
 }
 
 
+
+
+
+.card-faqs {
+
+
+    
+    text-align: center;
+   
+
+
+}
 
 /* Main for explore page */
 
@@ -214,7 +229,7 @@ body {
 h1 {
     text-align: center;
     color: #3498db;
-    
+
 }
 
 
@@ -228,7 +243,7 @@ section {
 
 h2 {
     color: #2980b9;
-     
+
 }
 
 article {
@@ -246,7 +261,7 @@ article a {
 
 ul {
     list-style-type: none;
-    
+
 }
 
 ul li {
@@ -301,8 +316,15 @@ blockquote {
     height: auto;
 }
 
+.support-btn-text {
 
 
+color: white;
+
+font-weight: bold;
+
+}
+ 
 /* Footer */
 
 footer {
@@ -509,7 +531,7 @@ footer {
     }
 
 
- 
+
 
 
 
