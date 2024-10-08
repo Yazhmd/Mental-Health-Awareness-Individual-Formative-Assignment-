@@ -265,9 +265,9 @@ body {
 /* Main for explore page */
 
 
- 
 
- 
+
+
 
 
 
@@ -428,10 +428,10 @@ footer {
 
 
     display: flex;
-    justify-content:center;
+    justify-content: center;
 
 
-     
+
 
 }
 
@@ -544,6 +544,20 @@ footer {
 
 
 
+
+    /* support page image buttons */
+
+
+    .support-btn-text {
+
+        gap: 30px;
+        color: white;
+
+        font-weight: bold;
+
+    }
+
+
 }
 
 
@@ -608,6 +622,12 @@ footer {
 
         color: white;
     }
+
+
+
+
+
+    /* support page image buttons */
 
 
 
