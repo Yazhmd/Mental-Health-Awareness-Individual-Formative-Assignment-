@@ -29,28 +29,29 @@ MindSpace being shown on a range of devices
 
 ## CONTENTS
 
-### [Project Outline] (#Project Outline)  
+### [Project Outline](##Project-Outline)  
 
 
 
-### [User Experience (UX)](#User-Experience-(UX))  
+### [User Experience (UX)](##User-Experience-(UX))  
 
 
 
-### [Design](#Design) 
+### [Design](##Design) 
 
 
-### [Technologies Used](#Technologies-Used) 
+### [Technologies Used](##Technologies-Used) 
 
 
-### [Deployment & Local Development](#Deployment-&-Local-Development) 
+### [Deployment & Local Development](##Deployment-&-Local-Development) 
 
 
-### [Testing](#Testing) 
+### [Testing](##Testing) 
 
-### [Credits](#Credits) 
+### [Credits](##Credits) 
 
 - - -
+
 ## Project Outline
 
 **Mindspace** is a mental health awareness website designed to provide users with educational resources, mindfulness tools, and community support. The platform aims to create a calming, user-friendly environment where individuals can access mental health content, track their wellness progress, and connect with others for support. With an emphasis on intuitive design, consistent navigation, and soothing aesthetics, Mindspace is built to help users manage stress and improve their mental well-being.
