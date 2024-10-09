@@ -128,9 +128,24 @@ The surface design of Mindspace combines soothing aesthetics with functionality.
 - Consistent layout across all pages for easy access to resources.
 Visible navigation bar and footer on every page for seamless browsing.
 
+
+Desktop navbar
+![MindSpace Website features](/documentation/images/navbar%20doc.png)
+
+
+Mobile navbar
+
+![MindSpace Website features](/documentation/images/navbar%20mobile%20doc.png)
+
+Footer
+![MindSpace Website features](/documentation/images/footer%20doc%20.png)
+
 #### Resource Library:
 
 - Comprehensive collection of articles, guides, and videos on mental health topics.
+
+
+![MindSpace Website features](/documentation/images/support%20resources%20image%20buttons%20doc.png)
 
 #### Mindfulness Tools:
 
@@ -148,6 +163,9 @@ Visible navigation bar and footer on every page for seamless browsing.
 
 - Optimized for various screen sizes to ensure a smooth experience on all devices.
 
+![MindSpace  Website shown on a range of devices](/documentation/images/Readme%20webpage%20devices%20screenshot.png)
+
+
 #### Aesthetic Design:
 
 - Calming color schemes and soothing imagery that promote a sense of well-being.
@@ -156,17 +174,21 @@ Visible navigation bar and footer on every page for seamless browsing.
 
 - Buttons and links provide visual feedback to indicate their purpose.
 
+![MindSpace Website features](/documentation/images/subscribe%20button%20doc.png)
+
+![MindSpace Website features](/documentation/images/support%20resources%20button.png)
+
 #### Prominent Menu Access:
 
 - Large, clear button directing users to the main menu for quick navigation.
 
-
+![MindSpace Website features](/documentation/images/pink%20mindspace%20do.png)
 
 ### **Color Scheme**  
 
   Color plays a crucial role in website design, especially for a mental health awareness platform. The right colors can evoke emotions, set a calming tone, and create a sense of trust and comfort for users. Soft, soothing hues can reduce stress and promote relaxation, helping users feel more at ease as they navigate the site. Gradients, such as Star Wine, are a great choice because they blend rich, warm tones with softer shades, offering a visually appealing, harmonious look. This gradient not only adds depth to the design but also conveys warmth and reassurance, making it ideal for a space dedicated to mental health awareness. 
 
-
+Colour Gradient: Star Wine
 ![colour theme swatches](/documentation/images/038%20Star%20Wine.png)  
   
 
