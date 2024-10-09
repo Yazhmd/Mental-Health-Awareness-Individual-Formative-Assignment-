@@ -29,26 +29,26 @@ MindSpace being shown on a range of devices
 
 ## CONTENTS
 
-### [Project Outline](##Project-Outline)  
+  [Project Outline](#project-outline)  
 
 
 
-### [User Experience (UX)](##User-Experience-(UX))  
+   [User Experience (UX)](#user-experience-(ux))  
 
 
 
-### [Design](##Design) 
+  [Design](#design) 
 
 
-### [Technologies Used](##Technologies-Used) 
+  [Technologies Used](#technologies-used) 
 
 
-### [Deployment & Local Development](##Deployment-&-Local-Development) 
+  [Deployment & Local Development](#deployment-&-local-development) 
 
 
-### [Testing](##Testing) 
+  [Testing](#testing) 
 
-### [Credits](##Credits) 
+  [Credits](#credits) 
 
 - - -
 
