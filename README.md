@@ -121,6 +121,47 @@ The surface design of Mindspace combines soothing aesthetics with functionality.
 ## Design
 
 
+### **Feature**
+
+#### User-Friendly Navigation:
+
+- Consistent layout across all pages for easy access to resources.
+Visible navigation bar and footer on every page for seamless browsing.
+
+#### Resource Library:
+
+- Comprehensive collection of articles, guides, and videos on mental health topics.
+
+#### Mindfulness Tools:
+
+- Access to guided meditations, breathing exercises, and stress management techniques.
+
+#### Community Support:
+
+- Forums or discussion boards where users can connect and share experiences.
+
+#### Personal Dashboard:
+
+- A feature for users to track their mental health progress and save preferred resources.
+
+#### Responsive Design:
+
+- Optimized for various screen sizes to ensure a smooth experience on all devices.
+
+#### Aesthetic Design:
+
+- Calming color schemes and soothing imagery that promote a sense of well-being.
+
+#### Visual Feedback:
+
+- Buttons and links provide visual feedback to indicate their purpose.
+
+#### Prominent Menu Access:
+
+- Large, clear button directing users to the main menu for quick navigation.
+
+
+
 ### **Color Scheme**  
 
   Color plays a crucial role in website design, especially for a mental health awareness platform. The right colors can evoke emotions, set a calming tone, and create a sense of trust and comfort for users. Soft, soothing hues can reduce stress and promote relaxation, helping users feel more at ease as they navigate the site. Gradients, such as Star Wine, are a great choice because they blend rich, warm tones with softer shades, offering a visually appealing, harmonious look. This gradient not only adds depth to the design but also conveys warmth and reassurance, making it ideal for a space dedicated to mental health awareness. 
