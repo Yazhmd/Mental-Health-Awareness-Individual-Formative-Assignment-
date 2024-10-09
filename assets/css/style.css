@@ -192,7 +192,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 
 }
@@ -519,7 +519,17 @@ footer {
         margin-bottom: 1rem;
     }
 
-
+    .jumbotron::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.4);
+        border-radius: 10px;
+    
+    }
 
 
     /* Footer media query */
