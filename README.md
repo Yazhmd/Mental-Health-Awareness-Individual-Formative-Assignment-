@@ -288,6 +288,7 @@ Regular testing. debugging and code validation were done using chrome dev tools 
 
 
 
+![ W3C test image](/documentation/images/W3C%20No%20Erros.png)
 
 
 
